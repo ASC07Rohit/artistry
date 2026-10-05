@@ -1,0 +1,7 @@
+{
+  "name": "ARTISTRY — Handmade Art Portfolio",
+  "description": "Portfolio showcasing handcrafted Ganesh idols, rangoli art, and original paintings by an artisan based in Nagpur, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
